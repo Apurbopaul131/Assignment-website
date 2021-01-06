@@ -143,8 +143,17 @@ p{
     border-image-slice: 1;
 
 }
-.fotter-p{
+#fotter-p{
     text-align: center;
     font-size: 15px;
+    color: gray;
+}
+#fotter-h2{
+    text-align:center ;
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+}
+.single-experience li{
     color: gray;
 }
